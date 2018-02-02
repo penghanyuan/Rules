@@ -13,4 +13,4 @@
 - Create MySQL database
 - Open /pages/index.html in browser
 
-### The /pages/admin.html is an admin page
+The /pages/admin.html is an admin page
